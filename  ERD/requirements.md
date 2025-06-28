@@ -1,1 +1,1 @@
-![airbnb_erd]{/Users/sondosahmed/Documents/ALX/alx-airbnb-database/ ERD/airbnb_erd.drawio.png}
+![airbnb_erd]{/User s/sondosahmed/Documents/ALX/alx-airbnb-database/ ERD/airbnb_erd.drawio.png}
